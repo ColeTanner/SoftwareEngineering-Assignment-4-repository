@@ -1,0 +1,2 @@
+# Standard library is primarily used for V1 simplicity.
+# No external binary dependencies required.
